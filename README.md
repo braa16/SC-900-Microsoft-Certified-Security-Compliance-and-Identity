@@ -12,9 +12,9 @@ MS-900 es una certificacion que tiene como objetivo ampliar conocimientos basico
 2. [Objetivos](#objetivos)
 3. [Requisitos previos](#requisitos)
 4. [Material y Recursos](#material-recursos)
-  4.1. [Training-Days-SC-900](#trainingdays)
-  4.2. [Recursos Adicionales](#recursos-adicionales)
-5. Examen
+5. [Training-Days-SC-900](#trainingdays)
+6. [Recursos Adicionales](#recursos-adicionales)
+7. Examen (#examen)
 
 
 ---
@@ -26,7 +26,9 @@ MS-900 es una certificacion que tiene como objetivo ampliar conocimientos basico
 ## Requisitos Previos 
 
 ## Material y Recursos
+
 ## Training Days SC-900
+
 ## Recursos Adicionales
 
 ## Examen
