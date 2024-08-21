@@ -2,7 +2,7 @@
 Guía para obtención de certificación SC-900
 ¡Bienvenido a la guía para la Obtencion de MS-900! Este documento proporciona una visión general de los pasos a seguir que te ayudarán a obtener la certificacion de manera más eficiente.
 
----
+
 
 MS-900 es una certificacion que tiene como objetivo ampliar conocimientos basicos en seguridad, cumplimiento e identidades.
 
@@ -14,7 +14,7 @@ MS-900 es una certificacion que tiene como objetivo ampliar conocimientos basico
 4. [Training Days](#training-days)
 5. [Examen](#examen)
 
----
+
 
 ## Objetivos 
 
